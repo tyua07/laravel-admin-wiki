@@ -1,8 +1,12 @@
-<<<<<<< HEAD
-# Introduction
-=======
-My Awesome Book
-=======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
->>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
+# laravel-admin WIKI
+
+=====================
+
+> 项目地址   [地址](https://github.com/tyua07/laravel-admin)
+
+License 
+
+=====================
+
+MIT
