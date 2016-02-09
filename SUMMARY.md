@@ -44,6 +44,8 @@
  	        * [构建 select 下拉列表框](service/build_html/build_form/select.md)
  	        * [构建双向选择器](service/build_html/build_form/multi_select.md)
  	        * [构建搜索框](service/build_html/build_form/search.md)
+ 	    * [加载js脚本文件](service/build_html/load_js.md)
+ 	    * [设置 form method](service/build_html/method.md)
 * [扩展](extension.md)
  	* [Excel 扩展](extension/Excel.md)        
  	* [极光推送](extension/jpush.md)        

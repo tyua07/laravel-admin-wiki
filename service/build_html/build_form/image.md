@@ -32,3 +32,7 @@ $name|$title|$type|$default|$notice|$class|$rule|$err_message|$option
    $data->brand_logo_name   = Image::getImageRealPath($data->brand_logo, self::IMAGE_SOURCE, self::IMAGE_TYPE);
 ```
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admindate.png)

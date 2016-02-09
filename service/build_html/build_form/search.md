@@ -5,9 +5,6 @@
 
 -------------------
 
-效果图：
-![图片1](http://static.womenshuo.com/@/other/images/22222.png)
-
 例如：
 
 ```
@@ -53,3 +50,7 @@ $name|$title|$type|$default|$notice|$class|$rule|$err_message|$option
    $data->index_cat_id_name   就是 上图文本框的内容;
 ```
 
+#### 效果图
+----------------------------------
+
+![图片1](http://static.womenshuo.com/@/other/images/22222.png)

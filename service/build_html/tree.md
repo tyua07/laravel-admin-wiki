@@ -74,3 +74,7 @@ $name|$title|$type|$class|$option|$option_value_schema
 表单name|表单名称|表单类型|表单默认值|表单提示|表单class
 
 
+3. 效果图
+----------------------------------
+
+![tree页面](http://7xojjf.com1.z0.glb.clouddn.com/FireShot%20Capture%2058%20-%20%E5%90%8E%E5%8F%B0%E8%8F%9C%E5%8D%95%E5%88%97%E8%A1%A8%20-%20http___www.laravel-admin.com_admin_admin_menu.png)

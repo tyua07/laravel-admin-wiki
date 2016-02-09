@@ -26,6 +26,10 @@ $option = [1=> trans('response.is_new_1'), '2'=>trans('response.is_new_2'), '3'=
 $option 是一个多维数组。$option_value_schema的值是3，则表示，表单默认值是3
 ```
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/adminradio.png)
 
 
 

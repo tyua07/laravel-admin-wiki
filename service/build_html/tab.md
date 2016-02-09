@@ -62,3 +62,7 @@ $name|$title|$type|$default|$notice|$class|$rule|$err_message|$option|$option_va
 表单name|表单名称|表单类型|表单默认值|表单提示|表单class|表单验证规则|表单验证提示文字|选项|选项值
 
 
+3. 效果图
+----------------------------------
+
+![tab 页面](http://7xojjf.com1.z0.glb.clouddn.com/FireShot%20Capture%2059%20-%20%E6%B7%BB%E5%8A%A0%E5%95%86%E5%93%81%20-%20http___admin.zaiseoul.com_admin_goods_goods_add_meitu_1.jpg)

@@ -67,3 +67,8 @@ $name|$title|$type|$default|$notice|$class|$rule|$err_message|$option|$option_va
 表单name|表单名称|表单类型|表单默认值|表单提示|表单class|表单验证规则|表单验证提示文字|选项|选项值
 
 
+3. 效果图
+----------------------------------
+
+![编辑或者添加页面](http://7xojjf.com1.z0.glb.clouddn.com/FireShot%20Capture%2057%20-%20%E7%BC%96%E8%BE%91%E5%90%8E%E5%8F%B0%E7%94%A8%E6%88%B7%20-%20http___www.laravel-admin.com_admin_admin_info_edit_id=1.png)
+

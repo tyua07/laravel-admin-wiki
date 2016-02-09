@@ -17,3 +17,7 @@ $name|$title|$type|$default
 
 ##### 注：详细参数请看[文档链接](http://www.my97.net/dp/demo/index.htm)
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admindate.png)

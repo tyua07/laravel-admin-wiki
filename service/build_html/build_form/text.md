@@ -14,3 +14,7 @@ $name|$title
 ------|------
 表单名称|标题|
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admintext.png)

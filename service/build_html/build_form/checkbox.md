@@ -27,4 +27,9 @@ $option 是一个多维数组。$option_value_schema的值是['ios', 'android']�
 ```
 
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admincheckbox.png)
+
 

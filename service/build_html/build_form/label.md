@@ -14,3 +14,7 @@ $name|$title|$type
 ------|------|----
 表单名称|标题|类型
 
+#### 效果图
+----------------------------------
+
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/adminlabel.png)
