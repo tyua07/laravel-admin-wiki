@@ -55,6 +55,7 @@
  	        * [设置表单元素class](service/build_html/Attribute/class.md) 
  	        * [设置表单元素js验证规则](service/build_html/Attribute/rule.md) 
  	        * [设置表单元素js验证规则错误时提示文字](service/build_html/Attribute/errorMessage.md) 
+ 	        * [设置双向选择器数据源](service/build_html/Attribute/multiSelectDataSource.md) 
 * [扩展](extension.md)
  	* [Excel 扩展](extension/Excel.md)        
  	* [极光推送](extension/jpush.md)        
