@@ -58,6 +58,9 @@
  	        * [设置双向选择器数据源](service/build_html/Attribute/multiSelectDataSource.md)
     * [自动构建CURD](service/auto_build.md)
         * [开始](service/auto_build/start.md)
+        * [构建Request配置信息](service/auto_build/request.md)
+        * [构建Controller配置信息](service/auto_build/controller.md)
+        * [执行curd操作](service/auto_build/curd.md)
  	       
 * [扩展](extension.md)
  	* [Excel 扩展](extension/Excel.md)        

@@ -1,4 +1,4 @@
-1.1 介绍
+介绍
 ===
 
 ## 开始
@@ -14,5 +14,11 @@
 ## 首页
 ![效果图](http://7xojjf.com1.z0.glb.clouddn.com/FireShot%20Capture%2060%20-%20%E6%9E%84%E5%BB%BA%E4%BB%A3%E7%A0%81%20-%20http___www.laravel-admin.com_auto-build_home.png)
 
-## 构建Request
+## 构建Request 配置信息
 ![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admin%2Fbuild_request_config1.png)
+
+## 构建Controller 配置信息
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admin%2Fbuild_controller.png)
+
+## 构建CURD 代码
+![效果图](http://7xojjf.com1.z0.glb.clouddn.com/admin%2Fbuild.png)
